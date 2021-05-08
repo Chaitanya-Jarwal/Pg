@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-image:linear-gradient(blue,hotpink);
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+img{
+    height: 400px;
+    width: 400px;
+    border: dotted yellow 10px;
+    padding: 10px;
+}
+p{
+    font-size: 30px;
+    font-family: cursive;
+    color:black;
+}
+header{
+    font-size: 70px;
+}
